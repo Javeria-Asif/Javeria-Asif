@@ -1,3 +1,4 @@
+[![An image of @javeriaasif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/javeriaasif)](https://holopin.io/@javeriaasif)
 <h1 align="center">Hi 👋, I'm Javeria Asif</h1>
 <h3 align="center">A passionate junior frontend / wordpress developer from Pakistan</h3>
 
